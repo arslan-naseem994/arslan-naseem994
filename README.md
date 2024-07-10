@@ -30,7 +30,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=arslan-naseem994&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arslan-naseem994&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arslan-naseem&theme=dark)
 
 
 <br>
