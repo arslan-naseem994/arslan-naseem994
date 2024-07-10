@@ -8,7 +8,7 @@
   
 ### Connect with me:
 <div id="badges">
-  <a href="https://github.com/arslan-naseem">
+  <a href="https://github.com/arslan-naseem994">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
 <!--   <a href="https://www.youtube.com/channel/UCzvRaprYPhvAplMK36Gu0kw">
@@ -28,10 +28,10 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=arslan-naseem&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=arslan-naseem994&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arslan-naseem&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arslan-naseem994&theme=dark)
 
 
 <br>
-⭐️ From [arslan-naseem](https://github.com/arslan-naseem)
+⭐️ From [arslan-naseem994](https://github.com/arslan-naseem994)
